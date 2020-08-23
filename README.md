@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Telaya</h1>
-<h3 align="center">A passionate engineer senior developer from Peru</h3>
+<h3 align="center">A passionate Senior Developer Engineer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edutrul" alt="edutrul" /> </p>
 
