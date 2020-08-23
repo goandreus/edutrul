@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Alexa and beacons for smart homes**
 
-- 👯 I’m looking to collaborate on [Alianza de amor](https://alianzadeamoraqp.org/)
+- 👯 I’m collaborating on [Alianza de amor](https://alianzadeamoraqp.org/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/edutrul/](https://www.linkedin.com/in/edutrul/)
 
